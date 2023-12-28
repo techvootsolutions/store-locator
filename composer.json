@@ -1,6 +1,7 @@
 {
     "name": "techvoot/module-retailer",
     "type": "magento2-module",
+    "version": "0.0.1",
     "description": "Techvoot Retailer Suite - Retailer Module",
     "keywords": ["magento2", "retailer suite", "retailer", "shop"],
     "authors": [
